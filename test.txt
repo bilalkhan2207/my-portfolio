@@ -1,2 +1,1 @@
-Hello this is Bilal 
-And this is my first project
+hey this is my first git project
