@@ -1,2 +1,3 @@
 hey this is my first git 
 Im learning git commands
+i add another line 
